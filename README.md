@@ -34,7 +34,7 @@ int main () {
        break;
        
        case '%' :
-       results = num1 / num2;
+       results = num1 % num2;
        cout << " results = " << results;
        break;
        
